@@ -10,7 +10,7 @@ REST/API examples for basic Day (2) operations view and trpubleshoot tasks
 file= ACI Health Environment.postman_environment.json
 
 2) Import this collection of tasks into Postman:
-file= ACI_QUERY_OBJECTS.postman_collection.json
+file= ACI-Health.postman_collection.json
 
 --------------------
 
